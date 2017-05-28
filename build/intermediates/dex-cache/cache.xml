@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Programming\AndroidProjects\Lab3b_PermissionsLab\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Programming\AndroidProjects\Lab3b_PermissionsLab\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b9a1c70dc312adcbc8a3e430149c2de3bc89c0fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Programming\AndroidProjects\Lab3b_PermissionsLab\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b67c5cd105b4c8ac91fe3ec57c400c0fd82277be">
+        <dex dex="C:\Programming\AndroidProjects\Lab3b_PermissionsLab\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ae232e447c39f61b166ee50c3da1ae6f6eaa68c2\classes.dex" />
+    </item>
+
+</items>
